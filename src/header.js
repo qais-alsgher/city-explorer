@@ -4,7 +4,7 @@ class Header extends React.Component{
 
 render(){
     return (
-        <h1>fiend map</h1>
+        <h1>fiend city</h1>
     )
 }
 
