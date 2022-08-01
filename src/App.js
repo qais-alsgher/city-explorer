@@ -77,7 +77,6 @@ handleSubmit=async(e)=>{
          <>
         <Form >
           <Form.Control type="text" placeholder="Enter citiry" id="city" onChange={this.handleChange}/>
-         
           <Button variant="primary" type="submit" onClick={this.handleSubmit}>
           Explore
        </Button>
